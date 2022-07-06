@@ -1,2 +1,5 @@
 Integrantes: 
-Ivan
+Ivan 
+Rodrigo
+Florencia
+Lucas
